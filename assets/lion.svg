@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="1520px" height="1039px" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <title>Slice 1</title>
+    <description>Created with Sketch (http://www.bohemiancoding.com/sketch)</description>
+    <defs></defs>
+    <g id="Page 1" fill="rgb(223,223,223)" fill-rule="evenodd">
+        <path d="M329,393 L329,832 L1136,832 L1136,393 L329,393 Z M329,393" id="Rectangle 1" fill="rgb(246,215,125)"></path>
+        <path d="M339,829 L339,998 L444,998 L444,829 L339,829 Z M339,829" id="Rectangle 1 copy" fill="rgb(246,215,125)"></path>
+        <path d="M478,810 L478,979 L583,979 L583,810 L478,810 Z M478,810" id="Rectangle 1 copy 2" fill="rgb(246,215,125)"></path>
+        <path d="M877,828 L877,997 L982,997 L982,828 L877,828 Z M877,828" id="Rectangle 1 copy 2" fill="rgb(246,215,125)"></path>
+        <path d="M1016,809 L1016,978 L1121,978 L1121,809 L1016,809 Z M1016,809" id="Rectangle 1 copy 3" fill="rgb(246,215,125)"></path>
+        <path d="M379.999985,130.25 L702.690695,347.045924 L579.433793,697.829098 L180.566134,697.829049 L57.3093296,347.045854 L379.999985,130.25 Z M379.999985,130.25" id="Polygon 1" fill="rgb(246,215,125)" transform="translate(380, 444) rotate(-180) translate(-380, -444)"></path>
+        <g id="Group">
+            <path d="M401,613 L426,666 L376,666 L401,613 Z M401,613" id="Triangle 1 copy 2" fill="rgb(254,255,255)"></path>
+            <path d="M325,595 L350,666 L300,666 L325,595 Z M325,595" id="Triangle 1" fill="rgb(254,255,255)"></path>
+            <path d="M363,613 L388,666 L338,666 L363,613 Z M363,613" id="Triangle 1 copy" fill="rgb(254,255,255)"></path>
+            <path d="M437,595 L462,666 L412,666 L437,595 Z M437,595" id="Triangle 1 copy 3" fill="rgb(254,255,255)"></path>
+        </g>
+        <path d="M398,517 L423,570 L373,570 L398,517 Z M398,517" id="Triangle 1 copy 2" fill="rgb(254,255,255)" transform="translate(398, 543.5) rotate(-180) translate(-398, -543.5)"></path>
+        <path d="M436,517 L461,588 L411,588 L436,517 Z M436,517" id="Triangle 1 copy" fill="rgb(254,255,255)" transform="translate(436, 552.5) rotate(-180) translate(-436, -552.5)"></path>
+        <path d="M360,517 L385,570 L335,570 L360,517 Z M360,517" id="Triangle 1 copy 3" fill="rgb(254,255,255)" transform="translate(360, 543.5) rotate(-180) translate(-360, -543.5)"></path>
+        <path d="M324,517 L349,588 L299,588 L324,517 Z M324,517" id="Triangle 1 copy 4" fill="rgb(254,255,255)" transform="translate(324, 552.5) rotate(-180) translate(-324, -552.5)"></path>
+        <path d="M344,417 L369,484 L319,484 L344,417 Z M344,417" id="Triangle 1 copy 2" fill="rgb(142,88,40)" transform="translate(344, 450.5) rotate(-180) translate(-344, -450.5)"></path>
+        <path d="M238,334.134253 L279.365747,416.865747 L196.634253,416.865747 L238,334.134253 Z M238,334.134253" id="Triangle 1 copy 3" fill="rgb(142,88,40)" transform="translate(238, 375.5) rotate(-225) translate(-238, -375.5)"></path>
+        <path d="M519,334.134253 L560.365747,416.865747 L477.634253,416.865747 L519,334.134253 Z M519,334.134253" id="Triangle 1 copy 4" fill="rgb(142,88,40)" transform="translate(519, 375.5) rotate(-135) translate(-519, -375.5)"></path>
+        <path d="M381,417 L406,478 L356,478 L381,417 Z M381,417" id="Triangle 1 copy 3" fill="rgb(142,88,40)" transform="translate(381, 447.5) rotate(-180) translate(-381, -447.5)"></path>
+        <path d="M417,417 L442,484 L392,484 L417,417 Z M417,417" id="Triangle 1 copy 4" fill="rgb(142,88,40)" transform="translate(417, 450.5) rotate(-180) translate(-417, -450.5)"></path>
+        <path d="M189,130 L264,230 L114,230 L189,130 Z M189,130" id="Triangle 7" fill="rgb(251,229,0)"></path>
+        <path d="M279,95.1317257 L345.658928,264.868274 L212.341072,264.868274 L279,95.1317257 Z M279,95.1317257" id="Triangle 7 copy" fill="rgb(251,229,0)" transform="translate(279, 180) rotate(-256) translate(-279, -180)"></path>
+        <path d="M157,180.131726 L223.658928,349.868274 L90.3410715,349.868274 L157,180.131726 Z M157,180.131726" id="Triangle 7 copy 2" fill="rgb(251,229,0)" transform="translate(157, 265) rotate(-256) translate(-157, -265)"></path>
+        <path d="M607,163.131726 L673.658928,332.868274 L540.341072,332.868274 L607,163.131726 Z M607,163.131726" id="Triangle 7 copy 3" fill="rgb(251,229,0)" transform="translate(607, 248) rotate(-256) translate(-607, -248)"></path>
+        <path d="M1146,359 L1221,399 L1071,399 L1146,359 Z M1146,359" id="Triangle 7 copy 4" fill="rgb(251,229,0)"></path>
+        <path d="M1221,399 L1296,439 L1146,439 L1221,399 Z M1221,399" id="Triangle 7 copy 5" fill="rgb(251,229,0)" transform="translate(1221, 419) rotate(-180) translate(-1221, -419)"></path>
+        <path d="M1330,359 L1405,399 L1255,399 L1330,359 Z M1330,359" id="Triangle 7 copy 5" fill="rgb(251,229,0)"></path>
+        <path d="M1405,399 L1480,439 L1330,439 L1405,399 Z M1405,399" id="Triangle 7 copy 6" fill="rgb(251,229,0)" transform="translate(1405, 419) rotate(-180) translate(-1405, -419)"></path>
+        <path d="M147,253.412996 L223.699287,358.587004 L70.3007131,358.587004 L147,253.412996 Z M147,253.412996" id="Triangle 7 copy 4" fill="rgb(251,229,0)" transform="translate(147, 306) rotate(-178) translate(-147, -306)"></path>
+        <path d="M402,74.4072863 L488.511293,253.592714 L315.488707,253.592714 L402,74.4072863 Z M402,74.4072863" id="Triangle 7 copy 4" fill="rgb(251,229,0)" transform="translate(402, 164) rotate(-230) translate(-402, -164)"></path>
+        <path d="M344,94.3007131 L396.587004,247.699287 L291.412996,247.699287 L344,94.3007131 Z M344,94.3007131" id="Triangle 7 copy 3" fill="rgb(251,229,0)" transform="translate(344, 171) rotate(-268) translate(-344, -171)"></path>
+        <path d="M379,94.3165965 L467.066368,271.683404 L290.933632,271.683404 L379,94.3165965 Z M379,94.3165965" id="Triangle 7 copy 4" fill="rgb(251,229,0)" transform="translate(379, 183) rotate(-46) translate(-379, -183)"></path>
+        <path d="M562,133.410168 L646.325308,264.589832 L477.674692,264.589832 L562,133.410168 Z M562,133.410168" id="Triangle 7 copy 5" fill="rgb(251,229,0)" transform="translate(562, 199) rotate(-193) translate(-562, -199)"></path>
+        <path d="M514,95.123505 L582.735886,266.876495 L445.264114,266.876495 L514,95.123505 Z M514,95.123505" id="Triangle 7 copy 6" fill="rgb(251,229,0)" transform="translate(514, 181) rotate(-106) translate(-514, -181)"></path>
+        <path d="M478,88.4570096 L540.264001,253.54299 L415.735999,253.54299 L478,88.4570096 Z M478,88.4570096" id="Triangle 7 copy 6" fill="rgb(251,229,0)" transform="translate(478, 171) rotate(-260) translate(-478, -171)"></path>
+    </g>
+</svg>
